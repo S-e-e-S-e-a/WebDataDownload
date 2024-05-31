@@ -1,7 +1,7 @@
 # WebDataDownload
 Download web data in batches
 
-## Get and filter URL for data
+## Get data URL
 
 URL: The URL of the website
 
@@ -20,3 +20,4 @@ Click F12 or Ctrl+Shift+I in the web --> find "network" --> Find the URL of this
 ## Need skip the anti-crawler mechanism?
 
 Just add "User-Agent" in headers
+
