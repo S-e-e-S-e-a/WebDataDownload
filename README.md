@@ -11,11 +11,11 @@ Keyword: Filter keyword
 
 ### How to get Label?
 
-Click Ctrl+U in the web
+Click Ctrl+U or Ctrl+Shift+I in the web
 
 ## Need login?
 
-Click F12 or Ctrl+Shift+I in the web --> find "network" --> Find the URL of this web --> find "Cookie" and "User-Agent" 
+Click Ctrl+Shift+I in the web --> find "network" --> Find the URL of this web --> find "Cookie" and "User-Agent" 
 
 ## Need skip the anti-crawler mechanism?
 
