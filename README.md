@@ -9,10 +9,14 @@ Label: Location for data url
 
 Keyword: Filter keyword
 
-### How to get Label ?
+### How to get Label?
 
 Click Ctrl+U in the web
 
-## Need login ?
+## Need login?
 
 Click F12 or Ctrl+Shift+I in the web --> find "network" --> Find the URL of this web --> find "Cookie" and "User-Agent" 
+
+## Need skip the anti-crawler mechanism?
+
+Just add "User-Agent" in headers
